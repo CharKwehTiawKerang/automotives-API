@@ -1,25 +1,4 @@
-//Proton Arena
-//Proton Ertiga
-//Proton Exora [Turbo/Non-Turbo]
-//Proton GEN 2
-//Proton Inspira
-//Proton Iriz
-//Proton Iswara
-//Proton Juara
-//Proton Perdana
-//Proton Persona
-//Proton Preve [Turbo/Non-Turbo]
-//Proton Putra
 //Proton Saga, Saga FLX, Saga BLM, Saga SV
-//Proton Satria
-//Proton Satria NEO
-//Proton Savvy
-//Proton Suprima S [Turbo/Non-Turbo]
-//Proton Tiara
-//Proton Waja
-//Proton Wira
-//Proton X50
-//Proton X70
 
 
 
@@ -165,80 +144,108 @@ const proton = {
             "Persona": [
                 {
                     "Images": {
-                        "Front": '',
-                        "Rear": ''
+                        "Persona 2nd GEN CM6 (2007 - 2016)": {
+                            "Front": 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Proton_Persona_%28front%29%2C_Serdang.jpg/1920px-Proton_Persona_%28front%29%2C_Serdang.jpg',
+                            "Rear": 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Proton_Persona_%28rear%29%2C_Serdang.jpg/1920px-Proton_Persona_%28rear%29%2C_Serdang.jpg'
+                        },
+                        "Persona 3rd GEN BH6 (2016 - 2023)": {
+                            "Front": 'https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Proton-Persona-Red.jpg/1280px-Proton-Persona-Red.jpg',
+                            "Rear": 'https://paultan.org/cn/image/2021/08/2022-Proton-Persona-Executive-facelift-Jet-Grey-6.jpg'
+                        }
                     },
                 }
             ],
             "Preve [Turbo/Non-Turbo]": [
                 {
                     "Images": {
-                        "Front": '',
-                        "Rear": ''
+                        "Front": 'https://upload.wikimedia.org/wikipedia/commons/thumb/9/9a/2013_Proton_Prev%C3%A9_Executive_in_Cyberjaya%2C_Malaysia_%2803%29.jpg/1280px-2013_Proton_Prev%C3%A9_Executive_in_Cyberjaya%2C_Malaysia_%2803%29.jpg',
+                        "Rear": 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/2014_Proton_Prev%C3%A9_Premium_in_Cyberjaya%2C_Malaysia_%2802%29.jpg/1920px-2014_Proton_Prev%C3%A9_Premium_in_Cyberjaya%2C_Malaysia_%2802%29.jpg'
                     },
                 }
             ],
             "Putra": [
                 {
                     "Images": {
-                        "Front": '',
-                        "Rear": ''
+                        "Front": 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/86/Proton_Putra_%28front%29%2C_Kuala_Lumpur.jpg/1920px-Proton_Putra_%28front%29%2C_Kuala_Lumpur.jpg',
+                        "Rear": 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Proton_Putra_%28rear%29%2C_Kuala_Lumpur.jpg/1920px-Proton_Putra_%28rear%29%2C_Kuala_Lumpur.jpg'
                     },
                 }
             ],
             "Saga": [
                 {
                     "Images": {
-                        "Front": '',
-                        "Rear": ''
+                        "Persona 2nd GEN CM6 (2007 - 2016)": {
+                            "Front": '',
+                            "Rear": ''
+                        },
+                        "Persona 2nd GEN CM6 (2007 - 2016)": {
+                            "Front": '',
+                            "Rear": ''
+                        },
+                        "Persona 2nd GEN CM6 (2007 - 2016)": {
+                            "Front": '',
+                            "Rear": ''
+                        },
+                        "Persona 2nd GEN CM6 (2007 - 2016)": {
+                            "Front": '',
+                            "Rear": ''
+                        },
+                        "Persona 2nd GEN CM6 (2007 - 2016)": {
+                            "Front": '',
+                            "Rear": ''
+                        },
+                        "Persona 2nd GEN CM6 (2007 - 2016)": {
+                            "Front": '',
+                            "Rear": ''
+                        }
                     },
                 }
             ],
             "Satria": [
                 {
                     "Images": {
-                        "Front": '',
-                        "Rear": ''
+                        "Front": 'https://upload.wikimedia.org/wikipedia/commons/6/63/Proton_Satria_%28first_generation%29_%28front%29%2C_Kuala_Lumpur.jpg',
+                        "Rear": 'https://upload.wikimedia.org/wikipedia/commons/a/a3/Proton_Satria_%28second_generation%29_%28rear%29%2C_Serdang.jpg'
                     },
                 }
             ],
             "Satria NEO": [
                 {
                     "Images": {
-                        "Front": '',
-                        "Rear": ''
+                        "Front": 'https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/2011_Proton_Satria_Neo_CPS_H-Line_in_Cyberjaya%2C_Malaysia_%2801%29.jpg/1280px-2011_Proton_Satria_Neo_CPS_H-Line_in_Cyberjaya%2C_Malaysia_%2801%29.jpg',
+                        "Rear": 'https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/2011_Proton_Satria_Neo_CPS_H-Line_in_Cyberjaya%2C_Malaysia_%2802%29.jpg/1280px-2011_Proton_Satria_Neo_CPS_H-Line_in_Cyberjaya%2C_Malaysia_%2802%29.jpg'
                     },
                 }
             ],
             "Savvy": [
                 {
                     "Images": {
-                        "Front": '',
-                        "Rear": ''
+                        "Front": 'https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Proton_Savvy_%28first_generation%29_%28front%29%2C_Serdang.jpg/1280px-Proton_Savvy_%28first_generation%29_%28front%29%2C_Serdang.jpg',
+                        "Rear": 'https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Proton_Savvy_%28first_generation%29_%28rear%29%2C_Serdang.jpg/1280px-Proton_Savvy_%28first_generation%29_%28rear%29%2C_Serdang.jpg'
                     },
                 }
             ],
             "Suprima S [Turbo/Non-Turbo]": [
                 {
                     "Images": {
-                        "Front": '',
-                        "Rear": ''
+                        "Front": 'https://www.motomalaysia.com/wp-content/uploads/2018/12/proton-suprima-s-2013-price-malaysia-7.jpg',
+                        "Rear": 'http://4.bp.blogspot.com/-R5NlPjSjbWE/UhSC2rEX_EI/AAAAAAAAbtw/f2Yf8fKX5Y4/s1600/71376728986_freesize.jpg'
                     },
                 }
             ],
             "Tiara": [
                 {
                     "Images": {
-                        "Front": '',
-                        "Rear": ''
+                        "Front": 'https://upload.wikimedia.org/wikipedia/commons/thumb/5/55/Proton_Tiara_%28front%29%2C_Sungai_Besi.jpg/1280px-Proton_Tiara_%28front%29%2C_Sungai_Besi.jpg',
+                        "Rear": 'https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/Proton_Tiara_%28rear%29%2C_Kuala_Lumpur.jpg/1280px-Proton_Tiara_%28rear%29%2C_Kuala_Lumpur.jpg'
                     },
                 }
             ],
             "Waja": [
                 {
                     "Images": {
-                        "Front": '',
-                        "Rear": ''
+                        "Front": 'https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/2005_Proton_Waja_1.6_%284G18%29_in_Puchong%2C_Malaysia_%2801%29.jpg/1280px-2005_Proton_Waja_1.6_%284G18%29_in_Puchong%2C_Malaysia_%2801%29.jpg',
+                        "Rear": 'https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/2005_Proton_Waja_1.6_%284G18%29_in_Puchong%2C_Malaysia_%2802%29.jpg/1280px-2005_Proton_Waja_1.6_%284G18%29_in_Puchong%2C_Malaysia_%2802%29.jpg'
                     },
                 }
             ],

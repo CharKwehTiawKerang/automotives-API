@@ -35,14 +35,22 @@ Name of Engine [Format] :-
 ====== PROTON ======
 CamPro CPS [I4 DOHC 16V]
 CamPro CPE [I4 DOHC 16V]
+
 ====== MITSUBISHI ======
 MIVEC [DOHC I4] //Proton Inspira
 Mitsubishi 4A3 //Proton Juara
 Mitsubishi 6A1 /Proton Waja
 Mitsubishi Orion / 4G1 //Proton Wira
+Mitsubishi 4G9 //Proton Satria, Proton Putra
 Mitsubishi Sirius / 4G6/4D6 //Proton Wira
+
 ====== VOLVO ======
 Volvo Engine Architecture (VEA) JLH-3G15TD //Proton X70, Proton X50
+
 ====== RENAULT ======
 F Renault F4P //Proton Waja
+DiET Renault Engine //Proton Savvy
+
+====== OTHERS ======
+PSA X Engine XW3 //Proton Tiara & Citroen, Peugeot, Renault, Talbot
 */
